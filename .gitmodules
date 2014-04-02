@@ -1,0 +1,3 @@
+[submodule "cliphpy"]
+	path = cliphpy
+	url = https://github.com/andreas4all/cliphpy.git
